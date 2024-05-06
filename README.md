@@ -1,6 +1,6 @@
 # @nixjs23n6/ts-validator-schema
 
-Typescript - create message error keys and parameters in Zod schema and flattening message keys.
+Typescript - Create message error keys and parameters and flatten message keys in Schema of JavaScript Validation Libraries (Zod, Yup, Zoi). 
 
 ## Install
 
