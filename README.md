@@ -17,7 +17,7 @@ yarn add @nixjs23n6/ts-validator-schema
 ```
 
 ```shell [bun]
-bun add --dev husky
+bun add @nixjs23n6/ts-validator-schema
 ```
 
 ## Example
