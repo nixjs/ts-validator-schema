@@ -23,7 +23,7 @@ bun add @nixjs23n6/ts-validator-schema
 ## Example
 
 ```typescript
-import { BaseMessage, Define, flattenSchemaValue } from '@athena20/ts-validator-schema'
+import { BaseMessage, Define, flattenSchemaValue } from '@nixjs23n6/ts-validator-schema'
 import * as z from 'zod'
 
 namespace ValidatorConfig {
